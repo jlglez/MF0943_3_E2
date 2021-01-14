@@ -1,0 +1,11 @@
+body *{
+	text-align: center;
+}
+
+#e1,#e2 {
+	color: red;
+}
+
+#e0 {
+	color:green;
+}
